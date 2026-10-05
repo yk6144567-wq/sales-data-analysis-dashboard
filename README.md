@@ -80,3 +80,9 @@ BCA Student | Aspiring Data Analyst
 ## 📌 Project Type
 
 Data Analytics / Excel & Google Sheets Project
+## 🔗 Live Project
+
+[View Live Google Sheets Project]
+
+
+(https://docs.google.com/spreadsheets/d/16GqxlU2C4Rr01Pr-MBjgjIz_33jTkQC0wb8EToTX-7A/edit?usp=sharing)
